@@ -1,6 +1,6 @@
 <h1 align="center">Salam🫡 Mən Şirvan</h1>
 
-<h3 align="center">Hazırda front-backend yönündə junior developerəm!</h3>
+<h3 align="center">Hazırda front-backend yönündə junior developerəm bununla yanaşı telegram botları kodlayıram!</h3>
 
 - 📫 Mail əlaqə **sdursuneliyev4@gmail.com**
 
